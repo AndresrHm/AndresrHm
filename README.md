@@ -2,13 +2,13 @@
 
 # ¡Hola! Soy Andrés Rafael Hernández Mederos 👋
 
-### Desarrollador Full Stack en formación
+### Desarrollador Full Stack
 
 <p>
   <a href="https://github.com/AndresrHm">
     <img src="https://img.shields.io/badge/GitHub-AndresrHm-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/andresrhm/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
