@@ -8,7 +8,7 @@
   <a href="https://github.com/AndresrHm">
     <img src="https://img.shields.io/badge/GitHub-AndresrHm-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/andresrhm/)">
+  <a href="https://www.linkedin.com/in/andresrhm/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -21,9 +21,9 @@
 
 Soy desarrollador de software y egresado de la **Universidad Nacional de San Martín — UNSAM**.
 
-Me interesa crear aplicaciones útiles, escalables y con una buena experiencia de usuario. Disfruto trabajar tanto en el desarrollo de interfaces modernas como en la construcción de APIs, sistemas de autenticación y soluciones basadas en datos.
+Me interesa crear aplicaciones útiles, escalables y con una buena experiencia de usuario. Disfruto trabajar tanto en el desarrollo de interfaces modernas como en la construcción de APIs, sistemas de[...] 
 
-Actualmente, mi objetivo es seguir creciendo como desarrollador **Full Stack**, mejorar continuamente la calidad visual y técnica de mis proyectos y construir un perfil profesional que refleje mi evolución.
+Actualmente, mi objetivo es seguir creciendo como desarrollador **Full Stack**, mejorar continuamente la calidad visual y técnica de mis proyectos y construir un perfil profesional que refleje mi evo[...]
 
 ```text
 Frontend  →  Interfaces modernas, accesibles y responsivas
